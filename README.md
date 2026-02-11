@@ -9,9 +9,10 @@
   Fedora:
     `sudo dnf install git-lfs`
 ## Setup
-1. Clone this repository: `git clone https://github.com/MasonAndrewHarrison/ModelGenMK1.git`
-2. Clone the lfs file: `git lfs pull`
-3. Create virtual environment: `python -m venv venv`
-4. Activate it: `source venv/bin/activate`
-5. Install dependencies: `pip install -r requirements.txt`
-6. Run: `python main.py`
+1. Clone this repository: `git clone https://github.com/MasonAndrewHarrison/Point-Cloud-Voxelizer.git`
+2. Change Directory: `cd Point-Cloud-Voxelizer`
+3. Clone the lfs file: `git lfs pull`
+4. Create virtual environment: `python -m venv venv`
+5. Activate it: `source venv/bin/activate`
+6. Install dependencies: `pip install -r requirements.txt`
+7. Run: `python main.py`
