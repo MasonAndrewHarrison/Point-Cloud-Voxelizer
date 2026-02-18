@@ -16,3 +16,15 @@
 5. Activate it: `source venv/bin/activate`
 6. Install dependencies: `pip install -r requirements.txt`
 7. Run: `python main.py`
+
+
+## Examples
+
+<table>
+  <tr>
+    <td><img src="images/img1.png" alt="img1" width="400"/></td>
+    <td><img src="images/img2.png" alt="img2" width="400"/></td>
+    <td><img src="images/img3.png" alt="img3" width="400"/></td>
+    <td><img src="images/img4.png" alt="img4" width="400"/></td>
+  </tr>
+</table>
