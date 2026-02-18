@@ -1,3 +1,6 @@
 __pycache__
 .venv/
+Voxel_Dataset/
+Splat_Dataset/
+Point_Dataset/
 Voxel_Dataset_*/
